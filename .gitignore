@@ -1,0 +1,16 @@
+# 邮箱凭据
+config.env
+
+# Python 本地环境和缓存
+.venv/
+__pycache__/
+*.py[cod]
+
+# 运行时生成的邮件附件、测试数据和结果
+downloads/
+output/
+sample_input/
+
+# 编辑器文件
+.vscode/
+.idea/
